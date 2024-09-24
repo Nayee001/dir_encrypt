@@ -1,7 +1,3 @@
-Here’s the updated `README.md` file with your signature added at the bottom:
-
----
-
 # 🔐 Zip File Encryption and Decryption using AES
 
 This project provides Python scripts to compress a directory into a zip file and encrypt it using AES-256 encryption. The generated AES key must be securely stored for future decryption.
