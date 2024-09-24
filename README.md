@@ -1,4 +1,4 @@
-Here's an updated version of the `README.md` file with emojis to make it more visually appealing and engaging:
+Here’s the updated `README.md` file with your signature added at the bottom:
 
 ---
 
@@ -98,4 +98,4 @@ python decrypt_zip.py
 
 ---
 
-This version includes emojis to make the instructions more engaging and easier to navigate. Let me know if you'd like to add anything else! 😄
+💻 Created by **Akshaykumar Nayee** 👨‍💻
